@@ -1,0 +1,5 @@
+# Ignore Arduino Secrets
+arduino_secrets.h
+
+
+
